@@ -1,0 +1,37 @@
+{
+  "name": "hei",
+  "version": "1.0.0",
+  "private": false,
+  "description": "repeat what you say",
+  "scripts": {},
+  "preferGlobal": true,
+  "bin": {
+    "hei": "./bin/hei"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "main": "index.js",
+  "keywords": [
+    "repeat",
+    "cloudcome",
+    "ydr.me"
+  ],
+  "author": {
+    "name": "cloudcome",
+    "email": "cloudcome@163.com",
+    "url": "http://ydr.me"
+  },
+  "homepage": "https://github.com/cloudcome/nodejs-hei",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudcome/nodejs-hei"
+  },
+  "bugs": {
+    "url": "https://github.com/cloudcome/nodejs-hei/issues"
+  },
+  "dependencies": {},
+  "peerDependencies": {},
+  "devDependencies": {},
+  "licenses": "MIT"
+}
