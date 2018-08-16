@@ -1,3 +1,1 @@
-# hei
-
-repeat what you say
+# 现已迁徙到 https://github.com/nodejs-clis/hei
